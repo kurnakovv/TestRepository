@@ -1,5 +1,5 @@
 learning merge
 
-learning merge edit file from learningMerge branch
+learning merge edit from master branch edit file from learningMerge branch
 
 learning merge edit file from learningMerge branch
